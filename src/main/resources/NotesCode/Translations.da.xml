@@ -39,7 +39,7 @@
   <minorEdit>false</minorEdit>
   <syntaxId>plain/1.0</syntaxId>
   <hidden>true</hidden>
-  <content>### Missing: notes.app.title=
-### Missing: notes.app.info=
+  <content>notes.app.title=Noter
+notes.app.info=Programmet samler de aktuelle dokumenter.
 </content>
 </xwikidoc>
